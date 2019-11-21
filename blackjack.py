@@ -1,8 +1,6 @@
-# Problem Set 4
 # Name: Deniz Sert
 # Collaborators: Tom from Office Hours, Karen Gao, my friend Stephanie
 # Time Spent: 5 hrs
-# Late Days Used: (only if you are using any)
 
 import random
 import matplotlib.pyplot as plt
